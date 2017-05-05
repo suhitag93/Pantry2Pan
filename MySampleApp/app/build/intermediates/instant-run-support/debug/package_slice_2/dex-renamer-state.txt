@@ -1,0 +1,4 @@
+#Thu May 04 22:26:11 EDT 2017
+base.0=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

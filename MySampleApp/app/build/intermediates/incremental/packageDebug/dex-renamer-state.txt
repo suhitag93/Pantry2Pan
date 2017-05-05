@@ -1,0 +1,7 @@
+#Thu May 04 22:35:54 EDT 2017
+base.0=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8fd8e266b17d0c35b89c13c837a41b554d3d84cb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e7796560c799f659d82617d3a0373481180d091b/classes.dex
+base.1=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e7796560c799f659d82617d3a0373481180d091b
+file.0=/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8fd8e266b17d0c35b89c13c837a41b554d3d84cb/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/splash_icon.png",
+        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/src/main/res/mipmap-mdpi/splash_icon.png"
+    }
+]

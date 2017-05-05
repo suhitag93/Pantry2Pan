@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.4.2/487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884/aws-android-sdk-cognito-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.4.2_efc3f09c24efee3c162fb9e486da7668aa264df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/e552fe9dc05376eff6d85001fb36b76eccce336c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_960b8ebee83c69ad07f4f33258be60f9bbe6301e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.4.2/34b5bf11f900c9e9915d77b0db9ddde760cb3faa/aws-android-sdk-ddb-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34b5bf11f900c9e9915d77b0db9ddde760cb3faa">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.4.2_14092e80f8f4ff92b273162e08aad00f54e48091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_d40286dcba82783a0d4ed901e8499b8d1a104b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.4.2/4d313b77b144c5e57b7da55ffaf5857d73b93bc0/aws-android-sdk-ddb-mapper-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d313b77b144c5e57b7da55ffaf5857d73b93bc0">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.4.2_1def6e8ad95c26d6499a7ddb0cb4e896334a4b83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/3629e73d842c6d03c3005730b4274c18b5486a8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46464f95460a9ffe9216fb62ae4e2d0ae659151c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e7796560c799f659d82617d3a0373481180d091b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/cb76161ada75d3e6687fd7642eaf69a7423ed3ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7fa8584a6ac659bf5b6f9ce23bb351fefa3487b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.4.2/3c144566ee18c4c725b4e5aef1793bfec4f9d022/aws-android-sdk-core-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c144566ee18c4c725b4e5aef1793bfec4f9d022">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.4.2_2c47d6f215bd58aa2eb96ddd45694bdc7de38692/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/83f40965ce7e78de97e84083aa3f1fb6a531bdc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fef36a5dc7df0278410ad4a8b7d13dae15bd824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/e552fe9dc05376eff6d85001fb36b76eccce336c/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cd25d293e5fa21baf543618b91ead9a1756e698a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/0ada9d2b3540c7080311e129a8ef70734a77cf51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9845b07faaa5e9dbcbbbd715f1cfe1a54e0b2e17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/8788d961ce9dc6b46baba1c37f4fc930c82f1678/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2632dc90a31900a6b6d7656e65adec780df8d63f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.4.2/c29a56e6dcf8e33d2e81af86082be7ba0b200223/aws-android-sdk-cognitoidentityprovider-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c29a56e6dcf8e33d2e81af86082be7ba0b200223">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-2.4.2_9d1dae515b18bd12ba30967002e45240e3c369ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_810980c77d3b4866407a9e05f52caedbd7871939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/3629e73d842c6d03c3005730b4274c18b5486a8b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7b91b01fe60ab3b6fdb3221dd4a57bbb1e4e8ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/898c315895c62343f2d16c02b96e61d4cd6b1ec5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_760bf1a81581a8c79f51e6a127f371ef0d01e746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.4.2/48c90942f154c2b84341a90ea07383314881e0ad/aws-android-sdk-s3-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c90942f154c2b84341a90ea07383314881e0ad">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.4.2_605ec5cb5702a2017ea6bd0864a005c6558341d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf8eebc1f01b2b310fdd80a9e697255b60f7f3a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kms/2.4.2/939fbde1af746ca406688dbf5f11e35bdc431243/aws-android-sdk-kms-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="939fbde1af746ca406688dbf5f11e35bdc431243">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-kms-2.4.2_8f89e2bc80ef874b2030f24963760e8d6bd00405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/dbe00bf2a526d9921b6b1952addba19a6845bc0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54db193cfa818c416d4abc29b7408c9cd40b0655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/cb76161ada75d3e6687fd7642eaf69a7423ed3ce/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_708c19e6a6e2b07bdc0addcb852c4785b14980d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/51584d6e6e4a623de9ca1856a9f4c60beead7959/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_52dd06a7df79f7487983255bc4ac33eabec49f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b4e585242afca2f7b97787305e7e91ae6df569b">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8fd8e266b17d0c35b89c13c837a41b554d3d84cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/8788d961ce9dc6b46baba1c37f4fc930c82f1678/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b57a733b8daf070b3e456d15ff844c3fd2a88f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshay/.android/build-cache/51584d6e6e4a623de9ca1856a9f4c60beead7959/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2213a2a76e0fe89207a7650a2fb52769789b2c4f/classes.dex" />
+    </item>
+
+</items>
