@@ -44,26 +44,7 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             >
         </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserHomeActivity"
-            android:label="Home">
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserPantryActivity"
-            android:label="Pantry">
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserChosenRecipeActivity"
-            android:label="Selected Recipes">
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserRecipeActivity"
-            android:label="My Recipes">
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.EditDataActivity"
-            android:label="My Recipes">
-        </activity>
+
     </application>
 
 </manifest>

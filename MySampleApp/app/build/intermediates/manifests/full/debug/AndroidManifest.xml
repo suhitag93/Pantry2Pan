@@ -48,6 +48,30 @@
             android:launchMode="singleInstance" >
         </activity>
         <activity
+            android:name="com.mysampleapp.UserHomeActivity"
+            android:label="Home" >
+        </activity>
+        <activity
+            android:name="com.mysampleapp.UserPantryActivity"
+            android:label="Pantry" >
+        </activity>
+        <activity
+            android:name="com.mysampleapp.UserChosenRecipeActivity"
+            android:label="Selected Recipes" >
+        </activity>
+        <activity
+            android:name="com.mysampleapp.UserRecipeActivity"
+            android:label="My Recipes" >
+        </activity>
+        <activity
+            android:name="com.mysampleapp.EditDataActivity"
+            android:label="Edit Data" >
+        </activity>
+        <activity
+            android:name="com.mysampleapp.ListDataActivity"
+            android:label="Pantry" >
+        </activity>
+        <activity
             android:name="com.amazonaws.mobilehelper.auth.signin.SignInActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/title_activity_sign_in" >
@@ -71,26 +95,6 @@
             android:name="com.amazonaws.mobilehelper.auth.signin.userpools.SignUpConfirmActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/title_activity_sign_up_confirm" >
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserHomeActivity"
-            android:label="Home" >
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserPantryActivity"
-            android:label="Pantry" >
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserChosenRecipeActivity"
-            android:label="Selected Recipes" >
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.UserRecipeActivity"
-            android:label="My Recipes" >
-        </activity>
-        <activity
-            android:name="com.amazonaws.mobilehelper.EditDataActivity"
-            android:label="My Recipes" >
         </activity>
     </application>
 

@@ -8,16 +8,8 @@
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_add2_pantry.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_add2_pantry.xml"
-    },
-    {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_sign_in.xml",
         "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_sign_in.xml"
-    },
-    {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/custom_layout.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/custom_layout.xml"
     },
     {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
@@ -68,10 +60,6 @@
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_recipe.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_recipe.xml"
-    },
-    {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
@@ -116,10 +104,6 @@
         "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_forgot_password.xml"
     },
     {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_pantry.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_pantry.xml"
-    },
-    {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_sign_up_confirm.xml",
         "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_sign_up_confirm.xml"
     },
@@ -136,20 +120,12 @@
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_chosen_recipe.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_chosen_recipe.xml"
-    },
-    {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/notification_template_media.xml",
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_editpantry.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_editpantry.xml"
     },
     {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_mfa.xml",
@@ -166,10 +142,6 @@
     {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/akshay/.android/build-cache/b30f2e03444ae4322d3b14a13a383c8d6b88291e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/activity_user_home.xml",
-        "source": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/src/main/res/layout/activity_user_home.xml"
     },
     {
         "merged": "/Users/akshay/Downloads/Pantry2Pan-aws-my-sample-app-android/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",

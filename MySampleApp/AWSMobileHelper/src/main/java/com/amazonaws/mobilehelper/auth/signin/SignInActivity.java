@@ -15,7 +15,6 @@ import android.util.Log;
 import android.view.View;
 
 import com.amazonaws.mobilehelper.R;
-import com.amazonaws.mobilehelper.UserHomeActivity;
 import com.amazonaws.mobilehelper.auth.IdentityManager;
 import com.amazonaws.mobilehelper.auth.IdentityProvider;
 import com.amazonaws.mobilehelper.auth.IdentityProviderType;
@@ -59,8 +58,6 @@ public class SignInActivity extends Activity {
                     // Call back the results handler.
 
                     signInResultsHandler.onSuccess(SignInActivity.this, provider);
-                    Intent intent = new Intent(getApplicationContext(), UserHomeActivity.class);
-                    startActivity(intent);
                 }
             });
 

@@ -2,19 +2,13 @@ package com.amazonaws.models.nosql;
 
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBAttribute;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBHashKey;
-import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBIndexHashKey;
-import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBIndexRangeKey;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBRangeKey;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBTable;
-
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
 @DynamoDBTable(tableName = "pantrypan-mobilehub-1032950509-Pantry")
 
 public class PantryDO {
-    private String _userId;
+    private Integer _userId=0;
     private String _expiry;
     private Double _iD;
     private String _name;
@@ -23,13 +17,14 @@ public class PantryDO {
 
     @DynamoDBHashKey(attributeName = "userId")
     @DynamoDBAttribute(attributeName = "userId")
-    public String getUserId() {
+    public Integer getUserId() {
         return _userId;
     }
 
-    public void setUserId(final String _userId) {
-        this._userId = _userId;
+    public void setUserId() {
+        this._userId=_userId++;
     }
+
     @DynamoDBRangeKey(attributeName = "Expiry")
     @DynamoDBAttribute(attributeName = "Expiry")
     public String getExpiry() {

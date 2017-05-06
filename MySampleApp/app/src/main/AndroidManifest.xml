@@ -41,5 +41,31 @@
             android:launchMode="singleInstance"
             android:label="@string/title_activity_main">
         </activity>
+        <activity
+            android:name=".UserHomeActivity"
+            android:label="Home">
+        </activity>
+        <activity
+            android:name=".UserPantryActivity"
+            android:label="Pantry">
+        </activity>
+        <activity
+            android:name=".UserChosenRecipeActivity"
+            android:label="Selected Recipes">
+        </activity>
+        <activity
+            android:name=".UserRecipeActivity"
+            android:label="My Recipes">
+        </activity>
+        <activity
+            android:name=".EditDataActivity"
+            android:label="Edit Data">
+        </activity>
+        <activity
+            android:name=".ListDataActivity"
+            android:label="Pantry">
+        </activity>
+
+
     </application>
 </manifest>
